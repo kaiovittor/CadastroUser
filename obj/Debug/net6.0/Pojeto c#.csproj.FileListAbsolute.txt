@@ -1,0 +1,26 @@
+/home/kaio/Documentos/Pojeto c#/bin/Debug/net6.0/appsettings.Development.json
+/home/kaio/Documentos/Pojeto c#/bin/Debug/net6.0/appsettings.json
+/home/kaio/Documentos/Pojeto c#/bin/Debug/net6.0/Pojeto c#.staticwebassets.runtime.json
+/home/kaio/Documentos/Pojeto c#/bin/Debug/net6.0/Pojeto c#
+/home/kaio/Documentos/Pojeto c#/bin/Debug/net6.0/Pojeto c#.deps.json
+/home/kaio/Documentos/Pojeto c#/bin/Debug/net6.0/Pojeto c#.runtimeconfig.json
+/home/kaio/Documentos/Pojeto c#/bin/Debug/net6.0/Pojeto c#.dll
+/home/kaio/Documentos/Pojeto c#/bin/Debug/net6.0/ref/Pojeto c#.dll
+/home/kaio/Documentos/Pojeto c#/bin/Debug/net6.0/Pojeto c#.pdb
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/Pojeto c#.csproj.AssemblyReference.cache
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/Pojeto c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/Pojeto c#.AssemblyInfoInputs.cache
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/Pojeto c#.AssemblyInfo.cs
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/Pojeto c#.csproj.CoreCompileInputs.cache
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/Pojeto c#.MvcApplicationPartsAssemblyInfo.cache
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/Pojeto c#.RazorAssemblyInfo.cache
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/Pojeto c#.RazorAssemblyInfo.cs
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/staticwebassets.build.json
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/staticwebassets.development.json
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/scopedcss/bundle/Pojeto c#.styles.css
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/scopedcss/projectbundle/Pojeto c#.bundle.scp.css
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/Pojeto c#.dll
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/ref/Pojeto c#.dll
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/Pojeto c#.pdb
+/home/kaio/Documentos/Pojeto c#/obj/Debug/net6.0/Pojeto c#.genruntimeconfig.cache
